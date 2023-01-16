@@ -16,7 +16,7 @@ Attackers targeting a Lambda can:
 9. access data cross-processes exposed in `/tmp` during warm start invocations
 10. exfiltrate the account id via get-caller-identity and attack outside-in
 
-**References:**
+**References:**  
 * [OWASP Serverless Top 10](https://owasp.org/www-project-serverless-top-10/)
 * [Hacking the Cloud: Lambda Persistence](https://hackingthe.cloud/aws/post_exploitation/lambda_persistence/)
 * [Hacking the Cloud: Steal IAM Credentials and Event Data from Lambda](https://hackingthe.cloud/aws/exploitation/lambda-steal-iam-credentials/)
