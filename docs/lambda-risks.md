@@ -27,7 +27,7 @@ Attackers targeting a Lambda can:
 * [Hacking the Cloud: Steal IAM Credentials and Event Data from Lambda](https://hackingthe.cloud/aws/exploitation/lambda-steal-iam-credentials/)
 * [fwd:cloudsec 2020 - Winning in the Dark: Defending Serverless Infrastructure](https://www.youtube.com/watch?v=5erD8yA6jjw)
     * [serverless-prey](https://github.com/pumasecurity/serverless-prey)
-* https://riyazwalikar.github.io/pentestawslambda
+* [https://riyazwalikar.github.io/pentestawslambda](https://riyazwalikar.github.io/pentestawslambda)
 * [lambda-internals](https://github.com/epsagon/lambda-internals)
 * [Hacking Serverless Runtimes Profiling Lambda, Azure, and more.](https://www.blackhat.com/docs/us-17/wednesday/us-17-Krug-Hacking-Severless-Runtimes.pdf)
     * [Gone in 60 Milliseconds](https://media.ccc.de/v/33c3-7865-gone_in_60_milliseconds)
