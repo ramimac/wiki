@@ -13,11 +13,11 @@ Attackers targeting a Lambda can:
 6. cause a DoS by exhausting API limits 
 7. monetize an RCE via [cryptomining](https://www.cadosecurity.com/cado-discovers-denonia-the-first-malware-specifically-targeting-lambda/) (_note_: there is a GuardDuty detection, but it will not function if the Lambda is not attached to a VPC)
 8. pivot via shared or over-privileged IAM roles
-9. access data cross-processes exposed in `/tmp` during warm start invocations
+9. access data cross-process exposed in `/tmp` during warm start invocations
 10. exfiltrate the account id via get-caller-identity and attack outside-in
 
 **References:** 
- 
+
 * [OWASP Serverless Top 10](https://owasp.org/www-project-serverless-top-10/)
 * [Hacking the Cloud: Lambda Persistence](https://hackingthe.cloud/aws/post_exploitation/lambda_persistence/)
 * [Hacking the Cloud: Steal IAM Credentials and Event Data from Lambda](https://hackingthe.cloud/aws/exploitation/lambda-steal-iam-credentials/)
