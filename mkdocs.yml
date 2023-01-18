@@ -16,3 +16,4 @@ plugins:
   - search:
       lang: en
   - social:
+      cards_dir: wiki/assets/images/social
