@@ -1,4 +1,5 @@
 site_name: Rami's Wiki
+site_url: https://ramimac.github.io/wiki
 theme:
   name: material
   palette: 
@@ -16,4 +17,3 @@ plugins:
   - search:
       lang: en
   - social:
-      cards_dir: wiki/assets/images/social
