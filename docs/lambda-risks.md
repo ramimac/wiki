@@ -1,3 +1,7 @@
+---
+description: an index of risks and threats to AWS Lambda 
+---
+
 Every couple years I find myself needing to brush up on the risks and threat model of AWS Lambda. 
 This is an index of security considerations. It excludes web application risks like authentication and authorization.
 
