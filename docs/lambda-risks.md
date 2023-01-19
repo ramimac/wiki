@@ -3,7 +3,8 @@ description: an index of risks and threats to AWS Lambda
 ---
 
 Every couple years I find myself needing to brush up on the risks and threat model of AWS Lambda. 
-This is an index of security considerations. It excludes web application risks like authentication and authorization.
+
+This is an index of security considerations. It excludes web application risks like authentication and authorization. It focuses on attack vectors, and as a result skips CI/CD concerns like [the risks of Lambda Layers](https://www.clearvector.com/blog/lambda-spy/).
 
 Attackers targeting a Lambda can:
 
