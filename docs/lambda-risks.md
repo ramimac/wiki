@@ -24,6 +24,7 @@ Attackers targeting a Lambda can:
 **References:** 
 
 * [OWASP Serverless Top 10](https://owasp.org/www-project-serverless-top-10/)
+* [The 12 Most Critical Risks for Serverless Applications](https://cloudsecurityalliance.org/blog/2019/02/11/critical-risks-serverless-applications/))
 * [Hacking the Cloud: Lambda Persistence](https://hackingthe.cloud/aws/post_exploitation/lambda_persistence/)
 * [Hacking the Cloud: Steal IAM Credentials and Event Data from Lambda](https://hackingthe.cloud/aws/exploitation/lambda-steal-iam-credentials/)
 * [fwd:cloudsec 2020 - Winning in the Dark: Defending Serverless Infrastructure](https://www.youtube.com/watch?v=5erD8yA6jjw)
