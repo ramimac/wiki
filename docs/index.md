@@ -5,3 +5,4 @@ A public knowledge hub of content that isn't a good fit for [a full post on my p
 * January 17th 2023: [Lambda Risks](lambda-risks.md)
 * January 17th 2023: [Startup Security Starter Pack](startup-security-starter-pack.md)
 * January 26th 2023: [Deploying WebAuthn](deploying-webauthn.md)
+* January 28th 2023: [Security Newsletters](security-newsletters.md)
