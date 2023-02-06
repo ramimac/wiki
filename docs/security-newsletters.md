@@ -7,6 +7,7 @@ I read:
 * [Better AppSec](https://betterappsec.com/)
 * [Boring AppSec](https://boringappsec.substack.com/)
 * [Venture in Security](https://ventureinsecurity.net/)
+* [Rak's Facts](https://rakgarg.substack.com)
 * [Frankly Speaking](https://franklyspeaking.substack.com/)
 * [InfoSecSherpa News Roundup](https://infosecsherpa.medium.com/)
 * [Last Week as a vCISO](https://www.lastweekasavciso.com/)
