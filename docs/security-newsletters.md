@@ -17,3 +17,4 @@ I don't read, but check out an issue and see if it's right for you:
 
 * [Blue Purple](https://bluepurple.binaryfirefly.com)
 * [Unsupervised Learning](https://danielmiessler.com/newsletter/)
+* [Security Pills](https://securitypills.news/)
