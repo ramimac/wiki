@@ -28,7 +28,7 @@ Limitations in budgets and hiring will have security leaders looking to consolid
 
 ## Summaries
 
-[Frankly Speaking - 5 Cybersecurity Predictions for 2023](https://franklyspeaking.substack.com/p/frankly-speaking-5-cybersecurity)
+### [Frankly Speaking - 5 Cybersecurity Predictions for 2023](https://franklyspeaking.substack.com/p/frankly-speaking-5-cybersecurity)
 
 1. [Continuing "trend towards Security Engineers"](https://franklyspeaking.substack.com/p/franklyspeaking-8922)
 2. A good year for Cybersecurity Services
@@ -36,7 +36,7 @@ Limitations in budgets and hiring will have security leaders looking to consolid
 4. Vendor consolidation
 5. VCs will stay busy in early-stage
 
-[Google Cybersecurity Action Team - January 2023 Threat Horizons Report](https://services.google.com/fh/files/blogs/gcat_threathorizons_full_jan2023.pdf)
+### [Google Cybersecurity Action Team - January 2023 Threat Horizons Report](https://services.google.com/fh/files/blogs/gcat_threathorizons_full_jan2023.pdf)
 
 1. More cross-platform targeting and pivoting from threat actors (cross CSP)
 2. Move from cryptomining to phishing or ransomware to monetize short-term attacker tenancy
@@ -44,7 +44,7 @@ Limitations in budgets and hiring will have security leaders looking to consolid
 4. Targeting of cloud services and resources to disrupt OT systems
 5. Increased amount of cloud-specific attack tools and malware, specifically ransomware
 
-[Emilio Escobar - My security predictions for 2023](https://emilioe.substack.com/p/my-security-predictions-for-2023)
+### [Emilio Escobar - My security predictions for 2023](https://emilioe.substack.com/p/my-security-predictions-for-2023)
 
 1. Security budgets will require additional justification
 2. Cloud adoption will accelerate, leading to additional breaches where security teams are not cloud-aware
@@ -54,13 +54,13 @@ Limitations in budgets and hiring will have security leaders looking to consolid
 6. More security products that sell to developers directly
 
 
-[Return on Security - The State of Cybersecurity in 2022 and Trends and Predictions for 2023](https://www.returnonsecurity.com/2022-annual-review/)
+### [Return on Security - The State of Cybersecurity in 2022 and Trends and Predictions for 2023](https://www.returnonsecurity.com/2022-annual-review/)
 
 1. More early stage VC activity
 2. More layoffs, down rounds, and PE activity in later stage cybersecurity companies
 3. Product predictions: Web3, AI/ML, API Security, No-Code Security, Managed Services,Security Program Value Realization, Identity Threat Detection, Automation Integrators, VAR evolution, Consumer Protection
 
-[6 IBM cybersecurity predictions for 2023: Ransomware and CaaS will spike](https://venturebeat.com/security/ibm-cybersecurity-predictions/)
+### [6 IBM cybersecurity predictions for 2023: Ransomware and CaaS will spike](https://venturebeat.com/security/ibm-cybersecurity-predictions/)
 
 1. Ransomware attacks, especially against organizations outside industries and regions already impacted
 2. Cybercrime-as-a-service boom
@@ -68,7 +68,7 @@ Limitations in budgets and hiring will have security leaders looking to consolid
 4. Increase in EDR and MFA evasion
 5. Implementation failures in zero trust
 
-[AT&T - 10 Cybersecurity predictions for 2023](https://cybersecurity.att.com/blogs/security-essentials/10-cybersecurity-predictions-for-2023)
+### [AT&T - 10 Cybersecurity predictions for 2023](https://cybersecurity.att.com/blogs/security-essentials/10-cybersecurity-predictions-for-2023)
 
 1. Continued threats to Critical Infrastructure and Public Sector
 2. OT attacks will become more prevalent
@@ -81,7 +81,7 @@ Limitations in budgets and hiring will have security leaders looking to consolid
 9. Increased attention from the Board
 10. Pain points from skills shortages and product silos
 
-[SentinelOne - #cybersecurity predictions for 2023](https://twitter.com/SentinelOne/status/1608498761348571138)
+### [SentinelOne - #cybersecurity predictions for 2023](https://twitter.com/SentinelOne/status/1608498761348571138)
 
 1. Low sophistication threat actors will cash in
 2. Vendor consolidation and collaboration, at customer demand
@@ -89,21 +89,22 @@ Limitations in budgets and hiring will have security leaders looking to consolid
 4. Deepfakes will show up in social engineering
 5. MacOS will see cross-platform malware
 
-[2023 Security Predictions by Tal Dery, co-founder and CTO of Red Access](https://www.globalsecuritymag.com/2023-Security-Predictions-by-Tal-Dery-co-founder-and-CTO-of-Red-Access.html)
+### [2023 Security Predictions by Tal Dery, co-founder and CTO of Red Access](https://www.globalsecuritymag.com/2023-Security-Predictions-by-Tal-Dery-co-founder-and-CTO-of-Red-Access.html)
 
 1. Ransomware will stay a major concern
 2. Deepfakes will grow more sophisticated and widespread
 3. Enterprises will focus on browsing security
 4. Passwordless will reach the enterprise
 
-[Naked Security 33 1/3 – Cybersecurity predictions for 2023 and beyond](https://nakedsecurity.sophos.com/2022/12/30/naked-security-33-1-3-cybersecurity-predictions-for-2023-and-beyond/)
+### [Naked Security 33 1/3 – Cybersecurity predictions for 2023 and beyond](https://nakedsecurity.sophos.com/2022/12/30/naked-security-33-1-3-cybersecurity-predictions-for-2023-and-beyond/)
 
 Security issues will come from the same places:
+
 1. Memory mismanagement
 2. Poor password choice
 3. Unpatched systems
 
-[The Hacker News - Cybercrime (and Security) Predictions for 2023](https://thehackernews.com/2022/12/cybercrime-and-security-predictions-for.html)
+### [The Hacker News - Cybercrime (and Security) Predictions for 2023](https://thehackernews.com/2022/12/cybercrime-and-security-predictions-for.html)
 
 1. Increase in digital supply chain attacks 
 2. Increase in mobile-specific threats
@@ -111,7 +112,7 @@ Security issues will come from the same places:
 4. Ransomware-as-a-Service sticks around
 5. Data privacy laws will keep getting stricter
 
-[ControlPlane - Cloud Native and Kubernetes Security Predictions 2023](https://control-plane.io/posts/kubernetes-predictions-for-2023/)
+### [ControlPlane - Cloud Native and Kubernetes Security Predictions 2023](https://control-plane.io/posts/kubernetes-predictions-for-2023/)
 
 1. CVEs continue to rampage and tear through the supply chain
 2. Kubernetes RBAC and security complexity continues to intensify
@@ -120,7 +121,7 @@ Security issues will come from the same places:
 5. Automated defensive remediation will continue to grow slowly
 6. Cybersecurity insurance policies will descope ransomware and negligence 
 
-[Venture in Security - The 360 degrees view of cyber: notes and reflections about the state of cybersecurity after the NightDragon's 2022 year in review event](https://ventureinsecurity.net/p/the-360-degrees-view-of-cyber-notes)
+### [Venture in Security - The 360 degrees view of cyber: notes and reflections about the state of cybersecurity after the NightDragon's 2022 year in review event](https://ventureinsecurity.net/p/the-360-degrees-view-of-cyber-notes)
 
 1. “Best of suite” platform companies will outperform “best of breed” point solutions
 2. "Tourist investors" will pull back, leaving more room for specialist investors with a solid understanding of cybersecurity
@@ -130,7 +131,7 @@ Security issues will come from the same places:
 6. Increased application of AI and machine learning in cybersecurity
 7. Increased focus on cyber literacy
 
-[Oxeye - 5 Application Security (AppSec) Predictions for 2023](https://www.oxeye.io/blog/5-application-security-appsec-predictions-for-2023)
+### [Oxeye - 5 Application Security (AppSec) Predictions for 2023](https://www.oxeye.io/blog/5-application-security-appsec-predictions-for-2023)
 
 1. AppSec and CloudSec will converge
 2. ‘Shift left’ will become ‘Shift everywhere’ 
@@ -138,7 +139,7 @@ Security issues will come from the same places:
 4. Vulnerability Exploitability Exchange (VEX) will grow in popularity due to demand for clearer prioritization data 
 5. Software supply chain security will finally have a clearer definition
 
-[BAE Systems - 2023 Cybersecurity Predictions](https://www.baesystems.com/en/cybersecurity/feature/2023-cyber-predictions)
+### [BAE Systems - 2023 Cybersecurity Predictions](https://www.baesystems.com/en/cybersecurity/feature/2023-cyber-predictions)
 
 
 1. Ransomware will have global impact
@@ -149,7 +150,7 @@ Security issues will come from the same places:
 6. The UK National Cyber Strategy will lead to an evolution in cyber capabilities
 7. 5G will bring attack surface
 
-Lohrmann on Cybersecurity - The Top 23 Security Predictions for 2023 [Part 1](https://www.govtech.com/blogs/lohrmann-on-cybersecurity/the-top-23-security-predictions-for-2023-part-1) [Part 2](https://www.govtech.com/blogs/lohrmann-on-cybersecurity/the-top-23-security-predictions-for-2023-part-2)
+### Lohrmann on Cybersecurity - The Top 23 Security Predictions for 2023 [Part 1](https://www.govtech.com/blogs/lohrmann-on-cybersecurity/the-top-23-security-predictions-for-2023-part-1) [Part 2](https://www.govtech.com/blogs/lohrmann-on-cybersecurity/the-top-23-security-predictions-for-2023-part-2)
 
 * More cyber insurance issues and assorted (big) changes coming. Many won’t qualify.
 * More nation-state cyber attacks based on lessons learned from the Ukraine war.
@@ -163,7 +164,7 @@ Lohrmann on Cybersecurity - The Top 23 Security Predictions for 2023 [Part 1](ht
 * Ransomware will be back in new, more dangerous, blended forms.
 * More attacks against non-traditional technology, from cars to toys to smart cities.
 
-[Trend Micro Security Predictions for 2023](https://www.trendmicro.com/vinfo/us/security/research-and-analysis/predictions/2023)
+### [Trend Micro Security Predictions for 2023](https://www.trendmicro.com/vinfo/us/security/research-and-analysis/predictions/2023)
 
 1. Social engineering threats will continue and adapt to new technologies
 2. Ransomware will increase capabilities for data extortion
@@ -171,13 +172,13 @@ Lohrmann on Cybersecurity - The Top 23 Security Predictions for 2023 [Part 1](ht
 4. Security issues from misconfigurations and inconsistent application of cloud
 5. Industrial internet of things security will struggle with the skills gap
 
-[Rak Garg - Security's Fifth Estate: Predictions for 2023](https://rakgarg.substack.com/p/securitys-fifth-estate-predictions)
+### [Rak Garg - Security's Fifth Estate: Predictions for 2023](https://rakgarg.substack.com/p/securitys-fifth-estate-predictions)
 
 1. Application security will better understand developers
 2. Phishing will get worse (especially due to AI)
 3. Security productivity will benefit from automation (like SOAR and XDR)
 
-[JupiterOne - Security Leaders Debate: Cybersecurity Predictions for 2023](https://info.jupiterone.com/resources/2023-security-predictions)
+### [JupiterOne - Security Leaders Debate: Cybersecurity Predictions for 2023](https://info.jupiterone.com/resources/2023-security-predictions)
 
 1. Cloud security will move beyond CSPM
 2. CI/CD and IaC tools for audit trails and solving other security problems
@@ -185,7 +186,7 @@ Lohrmann on Cybersecurity - The Top 23 Security Predictions for 2023 [Part 1](ht
 4. Radical data breach transparency from CISOs 
 5. Security will give up on the user as a line of defense
 
-[AWS security heads offer top cybersecurity predictions for 2023](https://venturebeat.com/security/aws-security-heads-offer-top-cybersecurity-predictions-for-2023/)
+### [AWS security heads offer top cybersecurity predictions for 2023](https://venturebeat.com/security/aws-security-heads-offer-top-cybersecurity-predictions-for-2023/)
 
 1. MFA adoption will grow
 2. Increasingly inclusive workforce will address talent gap
