@@ -23,7 +23,7 @@ Critical Infrastructure will see a continuation in the elevated volume of threat
 
 **Security Programs**
 
-Limitations in budgets and hiring will have security leaders looking to consolidated vendors, but they may still pick tools to balance reducing headcount. Diversity, inclusivity, and cross-training will be used to help with the "talent gap." The supply chain security trend will continue, introducing a push to solutions that avoid profligation of third parties. Privacy and resiliency will be major themes.
+Limitations in budgets and hiring will have security leaders looking to consolidated vendors, but they may still pick tools to balance reducing headcount. Diversity, inclusivity, and cross-training will be used to help with the "talent gap." The supply chain security trend will continue, introducing a push for solutions that avoid profligation of third parties. Privacy and resiliency will be major themes.
 
 
 ## Summaries
