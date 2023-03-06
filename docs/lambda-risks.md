@@ -11,6 +11,7 @@ Attackers targeting a Lambda can:
 1. [backdoor it](https://hackingthe.cloud/aws/post_exploitation/lambda_persistence), given RCE
 2. [retrieve the source](https://raw.githubusercontent.com/OWASP/Serverless-Top-10-Project/master/OWASP-Top-10-Serverless-Interpretation-en.pdf), given RCE
 3. [retrieve environment variables](https://hackingthe.cloud/aws/exploitation/lambda-steal-iam-credentials/), given a file read vulnerability or SSRF (with the `file:` protocol). This includes IAM credentials for the Lambda and event data.
+4. [given permission to invoke the function, view its logs](https://docs.aws.amazon.com/lambda/latest/dg/API_Invoke.html#API_Invoke_RequestSyntax)
 4. generate a [fork bomb](https://en.wikipedia.org/wiki/Fork_bomb)
 4. abuse a low concurrency limit by causing a DoS
 5. abuse a high concurrency limit by causing a [Denial of Wallet attack](https://portswigger.net/daily-swig/denial-of-wallet-attacks-how-to-protect-against-costly-exploits-targeting-serverless-setups)
