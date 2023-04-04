@@ -12,6 +12,7 @@ Inspired by [Steve Weis](https://saweis.net/) - [his version on Google Docs](htt
 * [Start with Security: A Guide for Business](https://www.ftc.gov/business-guidance/resources/start-security-guide-business) by the FTC
 * [BVP: A comprehensive guide to security for startups ](https://www.bvp.com/atlas/security-for-startups)
 * [How Early-Stage Startups Can Enlist The Right Amount of Security As They Grow](https://review.firstround.com/how-early-stage-startups-can-enlist-the-right-amount-of-security-as-they-grow)
+* [Probably Are Gonna Need It: Application Security Edition](https://jacobian.org/2021/jul/8/appsec-pagnis/)
 
 **Reference**  
 
