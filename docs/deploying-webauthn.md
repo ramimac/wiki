@@ -7,6 +7,7 @@
 * Palantir: [Part 1](https://blog.palantir.com/hardware-selection-and-logistics-passwordless-authentication-series-1-cef0a4550fab), [Part 2](https://blog.palantir.com/technical-controls-rollout-and-edge-cases-passwordless-authentication-series-2-c9b6dcd349e?source=user_profile---------13----------------------------), [Part 3](https://blog.palantir.com/new-hires-lost-keys-lessons-learned-passwordless-authentication-series-3-dfdd79e89fb6)
 * [Panther](https://panther.com/blog/going-phishless-how-panther-deployed-webauthn/)
 * [Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2021/how-we-rolled-out-security-keys-at-twitter)
+* Discord [BSidesSF 2023: WebAuthn, Yubikeys, and You](https://www.youtube.com/watch?v=IJHkaXT3nWI&list=PLbZzXF2qC3RuQAuC0C4Q7Lk4eQluqIVzL&index=54)
 
 **Other Compilations**
 
