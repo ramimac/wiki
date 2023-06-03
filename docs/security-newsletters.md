@@ -23,3 +23,5 @@ I don't read, but check out an issue and see if it's right for you:
 * [Security Pills](https://securitypills.news/)
 * [Deploying Securely](https://www.blog.deploy-securely.com/)
 * [The Security Industry](https://stiennon.substack.com/)
+* [Resilient Cyber](https://resilientcyber.substack.com)
+* [PodSec](https://pod-sec.com)
