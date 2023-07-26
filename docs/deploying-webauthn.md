@@ -1,3 +1,7 @@
+---
+description: an index of real world stories of rolling out WebAuthn
+---
+
 **Case Studies**
 
 * [Cloudflare](https://blog.cloudflare.com/2022-07-sms-phishing-attacks/)

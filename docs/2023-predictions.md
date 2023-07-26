@@ -1,3 +1,7 @@
+---
+description: a meta-analysis of 2023 predictions
+---
+
 It was that time of year again ... Vendors, Analysts, "thought leaders" and security leaders shared their predictions for 2023. 
 
 Here's an overview of those I read and _got something_ from:
