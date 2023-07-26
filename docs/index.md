@@ -7,3 +7,4 @@ A public knowledge hub of content that isn't a good fit for [a full post on my p
 * January 26th 2023: [Deploying WebAuthn](deploying-webauthn.md)
 * January 28th 2023: [Security Newsletters](security-newsletters.md)
 * February 8th 2023: [2023 Predictions](2023-predictions.md)
+* July 25 2023: [Real World SOC2](soc2.md)
