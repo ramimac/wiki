@@ -20,6 +20,7 @@ I read:
 * [Vulnerable U](https://vulnu.mattjay.com/)
 * [Executive Offense](https://executiveoffense.beehiiv.com/)
 * [InfoSecSherpa News Roundup](https://infosecsherpa.medium.com/)
+* [KSG Intelligence Services](https://intel.ks.group/)
 * [Last Week as a vCISO](https://www.lastweekasavciso.com/)
 
 I don't read, but check out an issue and see if it's right for you:
@@ -32,3 +33,7 @@ I don't read, but check out an issue and see if it's right for you:
 * [Resilient Cyber](https://resilientcyber.substack.com)
 * [PodSec](https://pod-sec.com)
 * [Reasonable Security](https://appsec.beehiiv.com)
+
+A competing compilation:
+
+* [TalEliyahu/awesome-security-newsletters](https://github.com/TalEliyahu/awesome-security-newsletters)

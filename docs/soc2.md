@@ -8,3 +8,6 @@ description: an index of real world stories and pragmatic advice for getting SOC
 4. [Sarah Harvey on Security, Cryptography, Whatever (also ... tptacek _again_)](https://securitycryptographywhatever.com/2022/10/16/SOC2-with-Sarah-Harvey/): interesting discussion of the vendor security review (customer) perspective
 6. [Vanta's 5 Principles for building a secure product (aka Before SOC 2)](https://www.vanta.com/resources/five-principles-for-building-a-secure-product)
 5. [RunReveal's SOC2 Type 1 experience](https://blog.runreveal.com/we-achieved-soc-2-type-1-in-record-time-and-how-you-can-too/): see especially a discussion of the benefits of avoiding containers 
+
+**Related Perspectives**
+[SOC2 Suck — A False Sense of Security](https://medium.com/@reid.huyssen/soc2-suck-a-false-sense-of-security-5852a2c080ff)
