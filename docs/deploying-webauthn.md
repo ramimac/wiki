@@ -17,3 +17,7 @@ description: an index of real world stories of rolling out WebAuthn
 
 * [Scott Piper's Tweet Thread](https://twitter.com/0xdabbad00/status/1601970551978721281)
 * [Clint Gibler's TLDRSec coverage](https://tldrsec.com/blog/tldr-sec-164/#webauthn--fido2--u2f-enforcement)
+
+**Research**
+
+* [Challenges with Passwordless FIDO2 in an Enterprise Setting: A Usability Study](https://arxiv.org/pdf/2308.08096.pdf) 
