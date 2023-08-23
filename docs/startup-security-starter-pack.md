@@ -15,6 +15,7 @@ Inspired by [Steve Weis](https://saweis.net/) - [his version on Google Docs](htt
 * [How Early-Stage Startups Can Enlist The Right Amount of Security As They Grow](https://review.firstround.com/how-early-stage-startups-can-enlist-the-right-amount-of-security-as-they-grow)
 * [Probably Are Gonna Need It: Application Security Edition](https://jacobian.org/2021/jul/8/appsec-pagnis/)
 * [Level Up Your Startup Security](https://blog.runreveal.com/startup-security-level-up/)
+* [Startup Security: A Framework From Zero To $100M ARR](https://12ft.io/proxy?&q=https%3A%2F%2Ftheporkskewer.medium.com%2Fstartup-security-a-framework-from-zero-to-100m-arr-6809e74e1b2a)
 
 **Reference**  
 
