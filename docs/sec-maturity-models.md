@@ -16,6 +16,9 @@ description: an index of security maturity models
 * [SOAR adoption maturity model](https://chronicle.security/blog/posts/SOAR-adoption-maturity-model/)
 * [Oso - Authorization Logic maturity model](https://www.osohq.com/post/rules-are-hard-logic-for-authorization)
 * [Unsupervised Learning - Consumer Authentication Strength Maturity Model](https://danielmiessler.com/p/casmm-consumer-authentication-security-maturity-model)
+* [OWASP Devsecops Maturity Model](https://owasp.org/www-project-devsecops-maturity-model/)
+* [Threat Detection Maturity Framework](https://medium.com/snowflake/threat-detection-maturity-framework-23bbb74db2bc)
+
 
 **Generic Models**
 * [Building Security In Maturity Model (BSIMM)](https://www.synopsys.com/software-integrity/software-security-services/bsimm-maturity-model.html)
