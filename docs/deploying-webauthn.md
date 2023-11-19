@@ -21,3 +21,4 @@ description: an index of real world stories of rolling out WebAuthn
 **Research**
 
 * [Challenges with Passwordless FIDO2 in an Enterprise Setting: A Usability Study](https://arxiv.org/pdf/2308.08096.pdf) 
+* [Why Aren’t We Using Passkeys? Obstacles Companies Face Deploying FIDO2 Passwordless Authentication (Extended Version)](https://maximiliangolla.com/files/2024/papers/fidoobstacles-extended.pdf)
