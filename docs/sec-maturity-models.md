@@ -4,7 +4,8 @@ description: an index of security maturity models
 
 **Topic Specific Models**
 
-* [Red Team Maturity](https://www.redteammaturity.com/)
+* [Red Team Maturity](https://www.redteammaturity.com/) 
+* [Redteams.fyi](https://www.redteams.fyi/)
 * [Data Security Maturity Model](https://www.datasecurity.org/)
 * [Machine Learning Security Maturity Model](https://arxiv.org/pdf/2306.16127.pdf)
 * [SANS Security Awareness Maturity Model](https://www.sans.org/security-awareness-training/resources/maturity-model/)
