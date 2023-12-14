@@ -35,5 +35,6 @@ description: an index of real world stories of JIT Cloud Access
 * [Common Fate](https://www.commonfate.io/)
 * [Leapp](https://www.leapp.cloud/)
 * [CloudYali](https://www.cloudyali.io/)
+* [p0](https://p0.dev/)
 * Okta IGA
 * CyberArk
