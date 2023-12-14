@@ -26,14 +26,14 @@ description: an index of real world stories of JIT Cloud Access
 
 ## Vendor list
 
-* Entitle
-* ConductorOne
-* Lumos
+* [Entitle](https://www.entitle.io/)
+* [ConductorOne](https://www.conductorone.com/)
+* [Lumos](https://www.lumos.com)
+* [Opal](https://opal.dev/)
+* [Indent](https://indent.com)
+* [Sym](https://symops.com)
+* [Common Fate](https://www.commonfate.io/)
+* [Leapp](https://www.leapp.cloud/)
+* [CloudYali](https://www.cloudyali.io/)
 * Okta IGA
-* Opal
-* Ident
-* Sym
-* Common Fate
-* Leapp
 * CyberArk
-* CloudYali
