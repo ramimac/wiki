@@ -8,9 +8,10 @@ description: an index of real world stories of JIT Cloud Access
 
 | Year      | Company      | CSP | Tool | Blog Post |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 2015 | Coinbase | AWS | [(oss) self-service-iam](https://github.com/coinbase/self-service-iam) | [Self-Service Cloud Security with Amazon IAM](https://web.archive.org/web/20150908082141/https://developers.coinbase.com/blog/2015/03/30/self-service-iam) |
+| 2015 | Coinbase | AWS | [(OSS) self-service-iam](https://github.com/coinbase/self-service-iam) | [Self-Service Cloud Security with Amazon IAM](https://web.archive.org/web/20150908082141/https://developers.coinbase.com/blog/2015/03/30/self-service-iam) |
 | 2017 | Addepar | AWS | Internal ("Concierge") | [(video) Access Control with Concierge: One Tool to Rule Them All](https://www.youtube.com/watch?v=121TkWzXXYI) |
 | 2018, 2021 | Segment | AWS, GCP | Internal | [Secure access to 100 AWS accounts](https://segment.com/blog/secure-access-to-100-aws-accounts/), [Access Service: Temporary Access to the Cloud](https://segment.com/blog/access-service/) |
+| 2019 | Riot | AWS | [(OSS) key-conjurer](https://github.com/RiotGames/key-conjurer) | [Key Conjurer: Our Policy of Least Privilege](https://technology.riotgames.com/news/key-conjurer-our-policy-least-privilege) |
 | 2021 | Netflix | AWS | [(OSS) consoleme](https://github.com/Netflix/consoleme) | [ConsoleMe: A Central Control Plane for AWS Permissions and Access](https://netflixtechblog.com/consoleme-a-central-control-plane-for-aws-permissions-and-access-fd09afdd60a8) |
 | 2021 | Bryj | AWS | [(OSS) consoleme](https://github.com/Netflix/consoleme) | [Achieving least-privilege at Bryj (former FollowAnalytics) with Repokid, Aardvark and ConsoleMe](https://medium.com/followanalytics/granting-least-privileges-at-followanalytics-with-repokid-aardvark-and-consoleme-895d8daf604a) |
 | 2023 | Temporal | AWS | Common Fate | [Rolling out access hours at Temporal](https://temporal.io/blog/rolling-out-access-hours-at-temporal) |
