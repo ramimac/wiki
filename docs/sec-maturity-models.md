@@ -19,9 +19,10 @@ description: an index of security maturity models
 * [Unsupervised Learning - Consumer Authentication Strength Maturity Model](https://danielmiessler.com/p/casmm-consumer-authentication-security-maturity-model)
 * [OWASP Devsecops Maturity Model](https://owasp.org/www-project-devsecops-maturity-model/)
 * [Threat Detection Maturity Framework](https://medium.com/snowflake/threat-detection-maturity-framework-23bbb74db2bc)
+* [Detection Engineering Maturity Matrix](https://detectionengineering.io/)
 
 
-**Generic Models**
+**Generic Models**  
 * [Building Security In Maturity Model (BSIMM)](https://www.synopsys.com/software-integrity/software-security-services/bsimm-maturity-model.html)
 * [OWASP Software Assurance Maturity Model (SAMM)](https://owasp.org/www-project-samm/)
 * [Cybersecurity Capability Maturity Model (C2M2)](https://www.energy.gov/ceser/cybersecurity-capability-maturity-model-c2m2)
