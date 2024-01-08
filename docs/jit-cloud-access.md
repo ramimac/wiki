@@ -19,10 +19,20 @@ description: an index of real world stories of JIT Cloud Access
 | 2023 | Ramp | AWS | ConductorOne | [Finding the right balance of speed and security through just-in-time access to cloud resources](https://engineering.ramp.com/jit-access) / [(video)  How Ramp Manages Authorization in the Cloud and Achieves Least Privilege](https://www.youtube.com/watch?v=v5f-1U3Y0xA) |
 | 2023 | Rippling | AWS | (OSS) Common Fate [glide](https://github.com/common-fate/glide) | [Streamlining AWS access with Rippling at scale — Integrating IAM Identity Center and Just-In-Time access](https://www.rippling.com/blog/streamlining-aws-access-with-rippling-at-scale) |
 
-
 ## (Quality) Blogs about JIT Access 
 
+* [Identity Crisis: The Biggest Prize in Security](https://research.contrary.com/reports/identity-crisis)
 * Entitle - [Common uses of just-in-time access in the cloud](https://www.entitle.io/resource/just-in-time-use-cases)
+* Firemon - [On Least Privilege, JIT, and Strong Authorization](https://defense.firemon.cloud/on-least-privilege-jit-and-strong-authorization/)
+* Evervault - [A security paradigm for 2024: ATAF—Access To, Access From](https://evervault.com/blog/security-paradigm-access-to-access-from?ref=hn)
+
+
+## Open Source Tools (AWS)
+
+* [common-fate/glide](https://github.com/common-fate/glide)
+* [aws-samples/iam-identity-center-team](https://github.com/aws-samples/iam-identity-center-team/blob/main/README.md), [blog](https://aws.amazon.com/blogs/security/temporary-elevated-access-management-with-iam-identity-center/)
+
+
 
 ## Vendor list
 
@@ -36,5 +46,20 @@ description: an index of real world stories of JIT Cloud Access
 * [Leapp](https://www.leapp.cloud/)
 * [CloudYali](https://www.cloudyali.io/)
 * [p0](https://p0.dev/)
+* [SGNL](https://sgnl.ai/solutions/amazon-web-services/)
+* [Zilla Security](https://zillasecurity.com/)
+* [AccessOS](https://www.accessos.com/)
+* [abbey](https://www.abbey.io/)
+* [Ermetic](https://ermetic.com/platform/just-in-time/)
+
+### As a feature of IdP or PAM
+
 * Okta IGA
-* CyberArk
+* CyberArk Secure Cloud Access
+* Jumpcloud [docs](https://jumpcloud.com/support/integrate-with-aws-iam-identity-center)
+* Delinea
+
+### Based on ticketing system
+
+* [ClearSkye](https://clearskye.com/) (ServiceNow)
+* [Multiplier](https://multiplierhq.com/) (Jira Service Management)

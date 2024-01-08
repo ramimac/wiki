@@ -10,6 +10,7 @@ description: an index of real world stories and pragmatic advice for getting SOC
 5. [RunReveal's SOC2 Type 1 experience](https://blog.runreveal.com/we-achieved-soc-2-type-1-in-record-time-and-how-you-can-too/): see especially a discussion of the benefits of avoiding containers 
 
 **Related Perspectives**  
+
 * [SOC2 Suck — A False Sense of Security](https://medium.com/@reid.huyssen/soc2-suck-a-false-sense-of-security-5852a2c080ff)
 * [soc2.fyi](https://soc2.fyi)
 * [Charity Majors:  Compliance & Regulatory Standards Are NOT Incompatible With Modern Development Best Practices](https://speakerdeck.com/charity/compliance-and-regulatory-standards-are-not-incompatible-with-modern-development-best-practices)

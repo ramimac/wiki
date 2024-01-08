@@ -4,12 +4,14 @@ description: an index of information on AWS SCPs
 
 
 Tips on using SCPs  
+
 * [Quick Tip: Minimizing Terraformed SCPs](https://ramimac.me/terraform-minimized-scps)
 * [Wiz, Scott Piper: Using Service Control Policies to protect security baselines](https://www.wiz.io/blog/using-service-control-policies-to-protect-security-baselines)
 * [Summit Route, Scott Piper: AWS SCP Best Practices](https://summitroute.com/blog/2020/03/25/aws_scp_best_practices/#understand-scps)
 * [Seshu Pasha: AWS Governance — Service Control Policies](https://medium.com/@seshu/aws-governance-service-control-policies-6d23b144ec72)
 
 Lists of Recommended SCPs   
+
 * AWS Organizations [SCP Examples](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps_examples.html)
 * [aws-samples/service-control-policy-examples](https://github.com/aws-samples/service-control-policy-examples)
 * [Reducing Attack Surface with AWS Allowlisting](https://ramimac.me/aws-allowlisting)
@@ -68,6 +70,7 @@ data "aws_iam_policy_document" "deny_public_secrets" {
 ```
 
 Visualization  
+
 * [scpkit](https://github.com/aquia-inc/scpkit)
 * Steampipe [aws_organizations_policy_target](https://hub.steampipe.io/plugins/turbot/aws/tables/aws_organizations_policy_target) + [Node/Edge Visualizations#](https://steampipe.io/docs/reference/mod-resources/graph#nodeedge-visualizations)
 
