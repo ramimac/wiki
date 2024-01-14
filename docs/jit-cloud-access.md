@@ -2,7 +2,14 @@
 description: an index of real world stories of JIT Cloud Access
 ---
 
-# JIT Access
+# JIT Cloud Access
+
+Also known as "temporary access", see: [Google's Building Security and Reliable Systems:](https://google.github.io/building-secure-and-reliable-systems/raw/ch05.html#temporary_access)
+>    You can limit the risk of an authorization decision by granting temporary access to resources. This strategy can often be useful when fine-grained controls are not available for every action, but you still want to grant the least privilege possible with the available tooling.
+>
+> You can grant temporary access in a structured and scheduled way (e.g., during on-call rotations, or via expiring group memberships) or in an on-demand fashion where users explicitly request access. You can combine temporary access with a request for multi-party authorization, a business justification, or another authorization control. Temporary access also creates a logical point for auditing, since you have clear logging about users who have access at any given time. It also provides data about where temporary access occurs so you can prioritize and reduce these requests over time.
+>
+> Temporary access also reduces ambient authority. This is one reason that administrators favor sudo or “Run as Administrator” over operating as the Unix user root or Windows Administrator accounts—when you accidentally issue a command to delete all the data, the fewer permissions you have, the better!
 
 ## Case Studies
 
