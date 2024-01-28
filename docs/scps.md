@@ -2,7 +2,6 @@
 description: an index of information on AWS SCPs 
 ---
 
-
 Tips on using SCPs  
 
 * [Quick Tip: Minimizing Terraformed SCPs](https://ramimac.me/terraform-minimized-scps)
