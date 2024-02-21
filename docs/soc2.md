@@ -18,3 +18,4 @@ description: an index of real world stories and pragmatic advice for getting SOC
 **Selecting Vendors and Auditors**
 
 * [soc2.fyi](https://soc2.fyi)
+* [FushionAuth -  SOC 2 - Inside The Matrix](https://fusionauth.io/blog/soc2-matrix)
