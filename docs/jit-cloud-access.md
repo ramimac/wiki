@@ -32,6 +32,7 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 * Entitle - [Common uses of just-in-time access in the cloud](https://www.entitle.io/resource/just-in-time-use-cases)
 * Firemon - [On Least Privilege, JIT, and Strong Authorization](https://defense.firemon.cloud/on-least-privilege-jit-and-strong-authorization/)
 * Evervault - [A security paradigm for 2024: ATAF—Access To, Access From](https://evervault.com/blog/security-paradigm-access-to-access-from?ref=hn)
+* Sym - [Just-in-Time Access: A Comprehensive Introduction](https://blog.symops.com/post/just-in-time-access-comprehensive-introduction)
 
 
 ## Open Source Tools (AWS)
