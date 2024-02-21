@@ -18,6 +18,7 @@ I read:
 * [InfoSecSherpa News Roundup](https://infosecsherpa.medium.com/)
 * [Last Week as a vCISO](https://www.lastweekasavciso.com/)
 * [CramHacks](https://www.cramhacks.com/)
+* [Lytical Ventures - Cyberthoughts](https://www.lyticalventures.com/cyberthoughts/categories/cyber-thoughts)
 
 I don't read, but check out an issue and see if it's right for you:
 
