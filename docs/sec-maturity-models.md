@@ -7,6 +7,7 @@ description: an index of security maturity models
 * [Red Team Maturity](https://www.redteammaturity.com/) 
 * [Redteams.fyi](https://www.redteams.fyi/)
 * [Data Security Maturity Model](https://www.datasecurity.org/)
+* [SanjMo's Data Access Management Maturity Model](https://sanjmo.medium.com/best-practices-for-securing-sensitive-data-f52a1eda8593)
 * [Machine Learning Security Maturity Model](https://arxiv.org/pdf/2306.16127.pdf)
 * [SANS Security Awareness Maturity Model](https://www.sans.org/security-awareness-training/resources/maturity-model/)
 * [CISA - Zero Trust Maturity Model](https://www.cisa.gov/sites/default/files/2023-04/zero_trust_maturity_model_v2_508.pdf)
