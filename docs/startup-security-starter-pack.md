@@ -17,6 +17,7 @@ Inspired by [Steve Weis](https://saweis.net/) - [his version on Google Docs](htt
 * [Level Up Your Startup Security](https://blog.runreveal.com/startup-security-level-up/)
 * [Startup Security: A Framework From Zero To $100M ARR](https://12ft.io/proxy?&q=https%3A%2F%2Ftheporkskewer.medium.com%2Fstartup-security-a-framework-from-zero-to-100m-arr-6809e74e1b2a)
 * [Jamie Finnigan - Startup security](https://chair6.net/startup-security.html)
+* [ZipSec - Building a Culture of Security Consciousness: Getting a Security Program off the Ground as a ‘Department of One’](https://www.zipsec.com/blog/building-a-culture-of-security-consciousness-getting-a-security-program-off-the-ground-as-a-department-of-one)
 
 **Reference**  
 
