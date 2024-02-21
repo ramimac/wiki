@@ -21,6 +21,7 @@ Lists of Recommended SCPs
 * Ashish Rajan: [aws-scp-best-practice-policies](https://github.com/hashishrajan/aws-scp-best-practice-policies)
 * [Summit Route, Scott Piper: AWS SCP Best Practices - Example SCPs](https://summitroute.com/blog/2020/03/25/aws_scp_best_practices/#example-scps)
 * Ian Mckay's [List of expensive / long-term effect AWS IAM actions](https://gist.github.com/iann0036/b473bbb3097c5f4c656ed3d07b4d2222)
+* [welldone-cloud/aws-scps-for-sandbox-and-training-accounts](https://github.com/welldone-cloud/aws-scps-for-sandbox-and-training-accounts)
 * Additional examples:
 
 ```terraform
