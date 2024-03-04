@@ -13,7 +13,7 @@ description: an index of real world stories and pragmatic advice for getting SOC
 
 * [SOC2 Suck — A False Sense of Security](https://medium.com/@reid.huyssen/soc2-suck-a-false-sense-of-security-5852a2c080ff)
 * [Charity Majors:  Compliance & Regulatory Standards Are NOT Incompatible With Modern Development Best Practices](https://speakerdeck.com/charity/compliance-and-regulatory-standards-are-not-incompatible-with-modern-development-best-practices)
-* [Substrate - SOC 2 compliance for startups and first-timers (part 1)](https://blog.substrate.tools/soc2-part1/)
+* [Substrate - SOC 2 compliance for startups and first-timers (part 1)](https://blog.substrate.tools/soc2-part1/), [part 2](https://blog.substrate.tools/soc2-part2/)
 
 **Selecting Vendors and Auditors**
 
