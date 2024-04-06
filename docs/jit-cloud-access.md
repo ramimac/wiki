@@ -25,6 +25,7 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 | 2023 | Material Security | GCP | Internal | [Reimagining Access Management: Part 1](https://material.security/blog/reimagining-access-management-part-1) |
 | 2023 | Ramp | AWS | ConductorOne | [Finding the right balance of speed and security through just-in-time access to cloud resources](https://engineering.ramp.com/jit-access) / [(video)  How Ramp Manages Authorization in the Cloud and Achieves Least Privilege](https://www.youtube.com/watch?v=v5f-1U3Y0xA) |
 | 2023 | Rippling | AWS | (OSS) Common Fate [glide](https://github.com/common-fate/glide) | [Streamlining AWS access with Rippling at scale — Integrating IAM Identity Center and Just-In-Time access](https://www.rippling.com/blog/streamlining-aws-access-with-rippling-at-scale) |
+| 2023 | Discord | AWS | (OSS) [access](https://github.com/discord/access) | [Access: A New Portal for Managing Internal Authorization](https://discord.com/blog/access-a-new-portal-for-managing-internal-authorization) |
 
 ## (Quality) Blogs about JIT Access 
 
@@ -37,7 +38,8 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 
 ## Open Source Tools (AWS)
 
-* [common-fate/glide](https://github.com/common-fate/glide)
+* **DEPRECATED** [common-fate/glide](https://github.com/common-fate/glide)
+* [discord/access](https://github.com/discord/access)
 * [aws-samples/iam-identity-center-team](https://github.com/aws-samples/iam-identity-center-team/blob/main/README.md), [blog](https://aws.amazon.com/blogs/security/temporary-elevated-access-management-with-iam-identity-center/)
 
 
