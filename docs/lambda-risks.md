@@ -36,3 +36,4 @@ Attackers targeting a Lambda can:
     * [Gone in 60 Milliseconds](https://media.ccc.de/v/33c3-7865-gone_in_60_milliseconds)
 * [CloudGoat goes Serverless](https://rhinosecuritylabs.com/cloud-security/cloudgoat-vulnerable-lambda-functions/)
 * Conversation in CloudSecForum on threat modeling "run something in python/node sandbox"
+* [AWS Lambda Abuse - DDOS](https://luminousmen.com/post/aws-lambda-abuse)
