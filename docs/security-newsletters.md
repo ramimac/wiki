@@ -19,10 +19,12 @@ I read:
 * [Last Week as a vCISO](https://www.lastweekasavciso.com/)
 * [CramHacks](https://www.cramhacks.com/)
 * [Lytical Ventures - Cyberthoughts](https://www.lyticalventures.com/cyberthoughts/categories/cyber-thoughts)
+* [Munrobotic](https://www.munrobotic.com/)
+* [CTO at NCSC](https://ctoatncsc.substack.com/)
+* [Shostack roundup](https://shostack.org/blog)
 
 I don't read, but check out an issue and see if it's right for you:
 
-* [Blue Purple](https://bluepurple.binaryfirefly.com)
 * [Unsupervised Learning](https://danielmiessler.com/newsletter/)
 * [Security Pills](https://securitypills.news/)
 * [Deploying Securely](https://www.blog.deploy-securely.com/)
@@ -31,7 +33,7 @@ I don't read, but check out an issue and see if it's right for you:
 * [PodSec](https://pod-sec.com)
 * [Reasonable Security](https://appsec.beehiiv.com)
 * [Vulnerable U](https://vulnu.mattjay.com/)
-
+* [IWWeekly](https://weekly.infosecwriteups.com)
 
 A competing compilation:
 
@@ -42,3 +44,4 @@ Defunct / on break:
 * [KSG Intelligence Services](https://intel.ks.group/)
 * [Threat Prompt (AI Security)](https://newsletter.threatprompt.com/)
 * [Executive Offense](https://executiveoffense.beehiiv.com/)
+* [Blue Purple](https://bluepurple.binaryfirefly.com) -> moved to CTO @ NCSC
