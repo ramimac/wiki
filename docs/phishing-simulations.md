@@ -16,5 +16,16 @@ _Research:_
 
 * [Phishing in Organizations: Findings from a Large-Scale and Long-Term Study](https://arxiv.org/pdf/2112.07498.pdf)
 * [“What Keeps People Secure is That They Met The Security Team”: Deconstructing Drivers And Goals of Organizational Security Awareness](https://arxiv.org/pdf/2404.18365)
+* [“To Do This Properly, You Need More Resources”: The Hidden Costs of Introducing Simulated Phishing Campaigns](https://www.usenix.org/system/files/usenixsecurity23-brunken.pdf)
+* [“Employees Who Don’t Accept the Time Security Takes Are Not Aware Enough”: The CISO View of Human-Centred Security](https://www.usenix.org/system/files/usenixsecurity23-hielscher.pdf)
+* NDSS 2024 - Symposium on Usable Security and Privacy
+  * [Keynote - Dr M Angela Sasse](https://youtu.be/XFeZvQuRWGk?si=34fp21Ja_tR9oCoH&t=1463)
+  * [The Impact of Workload on Phishing Susceptibility: An Experiment](https://www.ndss-symposium.org/wp-content/uploads/usec2024-24-paper.pdf)
+
+_Commentary:_
+* Good phishing simulations are dependant on a good lure. Meaningful lures involve major threats or inticements, both of which can hurt the end user when followed by the "gotcha" page.
+* Phishing simulations may be needed to check a box for legal, contractual, or compliance requirements. It's up to you to fight the first two getting put in place.
+* Measuring clicks is bad simulation - we mostly care about credential submission or execution of a binary. Simulation vendors often over-emphasize clicks as "bad."
+* Consider gamifying phish detection, as one alternative
 
 [1] Instead, roll out [webauthn/Yubikeys](deploying-webauthn.md)
