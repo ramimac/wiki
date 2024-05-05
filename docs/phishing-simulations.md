@@ -15,6 +15,6 @@ _Perspectives:_
 _Research:_   
 
 * [Phishing in Organizations: Findings from a Large-Scale and Long-Term Study](https://arxiv.org/pdf/2112.07498.pdf)
-
+* [“What Keeps People Secure is That They Met The Security Team”: Deconstructing Drivers And Goals of Organizational Security Awareness](https://arxiv.org/pdf/2404.18365)
 
 [1] Instead, roll out [webauthn/Yubikeys](deploying-webauthn.md)
