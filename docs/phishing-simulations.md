@@ -11,6 +11,7 @@ _Perspectives:_
 * Jamie Finnigan: [Simulated phishing is not so great](https://chair6.net/simulated-phishing-is-not-so-great.html)
 * Yahoo Paranoids: [Stop Giving Impossible Advice: Telling People to Watch Out for SUSPICIOUS EMAILS is Nonsense.](https://www.yahooinc.com/paranoids/stop-giving-impossible-advice-telling-people-to-watch-out-for-suspicious-emails-is-nonsense)
 * Jacob Kaplan-Moss: [Don’t include social engineering in penetration tests](https://jacobian.org/2017/jun/27/social-engineering-pentests/)
+* Matt Linton: [On Fire Drills and Phishing Tests](https://security.googleblog.com/2024/05/on-fire-drills-and-phishing-tests.html)
 
 _Research:_   
 
