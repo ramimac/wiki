@@ -24,9 +24,10 @@ _Research:_
     * [The Impact of Workload on Phishing Susceptibility: An Experiment](https://www.ndss-symposium.org/wp-content/uploads/usec2024-24-paper.pdf)
 
 _Commentary:_  
-* Good phishing simulations are dependant on a good lure. Meaningful lures involve major threats or inticements, both of which can hurt the end user when followed by the "gotcha" page.
-* Phishing simulations may be needed to check a box for legal, contractual, or compliance requirements. It's up to you to fight the first two getting put in place.
-* Measuring clicks is bad simulation - we mostly care about credential submission or execution of a binary. Simulation vendors often over-emphasize clicks as "bad."
-* Consider gamifying phish detection, as one alternative
+
+* Good phishing simulations are dependant on a good lure. Meaningful lures involve major threats or inticements, both of which can hurt the end user when followed by the "gotcha" page.  
+* Phishing simulations may be needed to check a box for legal, contractual, or compliance requirements. It's up to you to fight the first two getting put in place.  
+* Measuring clicks is bad simulation - we mostly care about credential submission or execution of a binary. Simulation vendors often over-emphasize clicks as "bad."  
+* Consider gamifying phish detection, as one alternative  
 
 [1] Instead, roll out [webauthn/Yubikeys](deploying-webauthn.md)
