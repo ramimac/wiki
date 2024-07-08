@@ -23,12 +23,15 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 | 2020 | Mercari | GCP | Internal ("QRay") | [ Qray permissions - How temporary production environment permissions are granted to SRE](https://engineering-mercari-com.translate.goog/blog/entry/sre-qray/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 | 2021 | Netflix | AWS | [(OSS) consoleme](https://github.com/Netflix/consoleme) | [ConsoleMe: A Central Control Plane for AWS Permissions and Access](https://netflixtechblog.com/consoleme-a-central-control-plane-for-aws-permissions-and-access-fd09afdd60a8) |
 | 2021 | Bryj | AWS | [(OSS) consoleme](https://github.com/Netflix/consoleme) | [Achieving least-privilege at Bryj (former FollowAnalytics) with Repokid, Aardvark and ConsoleMe](https://medium.com/followanalytics/granting-least-privileges-at-followanalytics-with-repokid-aardvark-and-consoleme-895d8daf604a) |
+| 2021 | Picus | AWS | Internal (SlackOps + Lambda) | [On-demand Server Access Management System at Picus](https://medium.com/picus-security-engineering/on-demand-server-access-management-system-at-picus-3d42e597df6c) |
 | 2022 | AirBnb | AWS etc. | Internal ("Access Control Platform") | [Airbnb’s Approach to Access Management at Scale](https://medium.com/airbnb-engineering/airbnbs-approach-to-access-management-at-scale-cfa66c32f03c) |
 | 2023 | Temporal | AWS | Common Fate | [Rolling out access hours at Temporal](https://temporal.io/blog/rolling-out-access-hours-at-temporal) |
 | 2023 | Material Security | GCP | Internal | [Reimagining Access Management: Part 1](https://material.security/blog/reimagining-access-management-part-1) |
 | 2023 | Ramp | AWS | ConductorOne | [Finding the right balance of speed and security through just-in-time access to cloud resources](https://engineering.ramp.com/jit-access) / [(video)  How Ramp Manages Authorization in the Cloud and Achieves Least Privilege](https://www.youtube.com/watch?v=v5f-1U3Y0xA) |
 | 2023 | Rippling | AWS | (OSS) Common Fate [glide](https://github.com/common-fate/glide) | [Streamlining AWS access with Rippling at scale — Integrating IAM Identity Center and Just-In-Time access](https://www.rippling.com/blog/streamlining-aws-access-with-rippling-at-scale) |
 | 2023 | Discord | AWS | (OSS) [access](https://github.com/discord/access) | [Access: A New Portal for Managing Internal Authorization](https://discord.com/blog/access-a-new-portal-for-managing-internal-authorization) |
+| 2024 | OpenAI | AWS | Internal ("AccessManager") | [Securing Research Infrastructure for Advanced AI](https://openai.com/index/securing-research-infrastructure-for-advanced-ai/) |
+| 2024 | PicPay | AWS | (oss) [AWS TEAM](https://github.com/aws-samples/iam-identity-center-team) | [AWS re:Inforce 2024 - How PicPay achieved temporary elevated access control on AWS](https://www.youtube.com/watch?v=3AsWBROK608) |
 
 ## (Quality) Blogs about JIT Access 
 
@@ -53,23 +56,25 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 
 ## Vendor list
 
-* [Entitle](https://www.entitle.io/)
 * [ConductorOne](https://www.conductorone.com/)
 * [Lumos](https://www.lumos.com)
 * [Opal](https://opal.dev/)
-* [Indent](https://indent.com)
 * [Sym](https://symops.com)
 * [Common Fate](https://www.commonfate.io/)
-* [Leapp](https://www.leapp.cloud/)
 * [CloudYali](https://www.cloudyali.io/)
 * [p0](https://p0.dev/)
 * [SGNL](https://sgnl.ai/solutions/amazon-web-services/)
 * [Zilla Security](https://zillasecurity.com/)
 * [AccessOS](https://www.accessos.com/)
 * [abbey](https://www.abbey.io/)
-* [Ermetic](https://ermetic.com/platform/just-in-time/)
 * [Apono](https://www.apono.io/)
 * [Britive](https://www.britive.com)
+* [zluri](https://www.zluri.com/)
+
+### Aquired
+
+* [Entitle (now BeyondTrust)](https://www.entitle.io/)
+* [Ermetic (now Tenable)](https://ermetic.com/platform/just-in-time/)
 
 ### As a feature of IdP or PAM
 
@@ -82,3 +87,9 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 
 * [ClearSkye](https://clearskye.com/) (ServiceNow)
 * [Multiplier](https://multiplierhq.com/) (Jira Service Management)
+
+### Defunct
+
+* [Indent](https://indent.com) - [aquihired into OpenAI and wound down in May 2024](https://x.com/fouadmatin/status/1793350695476933108)
+* [Sym](https://symops.com) - [wound down in April 2024](https://www.linkedin.com/posts/jonbass_i-am-sorry-to-report-that-sym-will-be-shutting-activity-7173334515610849282-hK88)
+* [Noovolari (Leapp)](https://www.leapp.cloud/) - [wound down in May 2024](https://blog.leapp.cloud/noovolari-has-officially-come-to-an-end)
