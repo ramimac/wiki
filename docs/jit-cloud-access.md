@@ -32,6 +32,8 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 | 2023 | Discord | AWS | (OSS) [access](https://github.com/discord/access) | [Access: A New Portal for Managing Internal Authorization](https://discord.com/blog/access-a-new-portal-for-managing-internal-authorization) / [(video) BSidesSF 2024: Heard you liked access, so we built Access to manage your access for Access](https://www.youtube.com/watch?v=g4JZtHNfau8) |
 | 2024 | OpenAI | AWS | Internal ("AccessManager") | [Securing Research Infrastructure for Advanced AI](https://openai.com/index/securing-research-infrastructure-for-advanced-ai/) |
 | 2024 | PicPay | AWS | (oss) [AWS TEAM](https://github.com/aws-samples/iam-identity-center-team) | [AWS re:Inforce 2024 - How PicPay achieved temporary elevated access control on AWS](https://www.youtube.com/watch?v=3AsWBROK608) |
+| 2024 | Chime | AWS | Internal ("Access Service") | [(video) BSidesSF 2024 - Temporary Access to the Cloud: A Case Study](https://www.youtube.com/watch?v=o4eoE7cF56M) |
+
 
 ## (Quality) Blogs about JIT Access 
 
