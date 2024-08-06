@@ -61,7 +61,6 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 * [ConductorOne](https://www.conductorone.com/)
 * [Lumos](https://www.lumos.com)
 * [Opal](https://opal.dev/)
-* [Sym](https://symops.com)
 * [Common Fate](https://www.commonfate.io/)
 * [CloudYali](https://www.cloudyali.io/)
 * [p0](https://p0.dev/)
