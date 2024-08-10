@@ -33,6 +33,8 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 | 2024 | OpenAI | AWS | Internal ("AccessManager") | [Securing Research Infrastructure for Advanced AI](https://openai.com/index/securing-research-infrastructure-for-advanced-ai/) |
 | 2024 | PicPay | AWS | (oss) [AWS TEAM](https://github.com/aws-samples/iam-identity-center-team) | [AWS re:Inforce 2024 - How PicPay achieved temporary elevated access control on AWS](https://www.youtube.com/watch?v=3AsWBROK608) |
 | 2024 | Chime | AWS | Internal ("Access Service") | [(video) BSidesSF 2024 - Temporary Access to the Cloud: A Case Study](https://www.youtube.com/watch?v=o4eoE7cF56M) |
+| 2024 | Instacart | AWS | ConductorOne + (oss) [gadjit](https://github.com/instacart/gadjit) | [JIT Happens: How Instacart Uses AI to Keep Doors Open and Risks Closed](https://bsideslv.org/talks#8NXQEM) |
+| 2024 | Cedar | AWS | Lumos | [Building Data Driven Access with the tools you have](https://bsideslv.org/talks#XLHMUT) |
 
 
 ## (Quality) Blogs about JIT Access 

@@ -29,5 +29,6 @@ _Commentary:_
 * Phishing simulations may be needed to check a box for legal, contractual, or compliance requirements. It's up to you to fight the first two getting put in place.  
 * Measuring clicks is bad simulation - we mostly care about credential submission or execution of a binary. Simulation vendors often over-emphasize clicks as "bad."  
 * Consider gamifying phish detection, as one alternative  
+* Phil Venables: [Security Training & Awareness - 10 Essential Techniques](https://www.philvenables.com/post/security-training-awareness-10-essential-techniques)
 
 [1] Instead, roll out [webauthn/Yubikeys](deploying-webauthn.md)
