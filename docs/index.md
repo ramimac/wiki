@@ -11,3 +11,4 @@ A public knowledge hub of content that isn't a good fit for [a full post on my p
 * December 12 2023: [Just in Time Cloud Access](jit-cloud-access.md)
 * January 7 2024: [Phishing Simulations](phishing-simulations.md)
 * January 7 2024: [AWS SCPs](scps.md)
+* September 2 2024: [IMDSv2](imdsv2.md)
