@@ -8,7 +8,7 @@ This is an index of security considerations. It excludes web application risks l
 
 Attackers targeting a Lambda can:
 
-1. [backdoor it](https://hackingthe.cloud/aws/post_exploitation/lambda_persistence), given RCE
+1. [backdoor it](https://hackingthe.cloud/aws/post_exploitation/lambda_persistence) and [leak subsequent events](https://www.praetorian.com/blog/exploiting-lambda-functions-for-fun-and-profit), given RCE
 2. [retrieve the source](https://raw.githubusercontent.com/OWASP/Serverless-Top-10-Project/master/OWASP-Top-10-Serverless-Interpretation-en.pdf), given RCE
 3. [retrieve environment variables](https://hackingthe.cloud/aws/exploitation/lambda-steal-iam-credentials/), given a file read vulnerability or SSRF (with the `file:` protocol). This includes IAM credentials for the Lambda and event data.
 4. [given permission to invoke the function, view its logs](https://docs.aws.amazon.com/lambda/latest/dg/API_Invoke.html#API_Invoke_RequestSyntax)
@@ -37,3 +37,4 @@ Attackers targeting a Lambda can:
 * [CloudGoat goes Serverless](https://rhinosecuritylabs.com/cloud-security/cloudgoat-vulnerable-lambda-functions/)
 * Conversation in CloudSecForum on threat modeling "run something in python/node sandbox"
 * [AWS Lambda Abuse - DDOS](https://luminousmen.com/post/aws-lambda-abuse)
+* [Exploiting Lambda Functions for Fun and Profit](https://www.praetorian.com/blog/exploiting-lambda-functions-for-fun-and-profit/)
