@@ -30,6 +30,9 @@ description: an index of security maturity models
 ### Security Awareness   
 * [SANS Security Awareness Maturity Model](https://www.sans.org/security-awareness-training/resources/maturity-model/)
 
+### Security Canaries
+* [Tracebit - Security Canary Maturity Model](https://tracebit.com/blog/the-security-canary-maturity-model)
+
 ### Security Operations / Detection Engineering  
 * [Security Operations Framework](https://hockeyinjune.medium.com/security-operations-framework-2b63840a1128)
 * [Palantir - Alerting and Detection Strategy Framework](https://blog.palantir.com/alerting-and-detection-strategy-framework-52dc33722df2)
