@@ -31,5 +31,6 @@ _Commentary:_
 * Measuring clicks is bad simulation - we mostly care about credential submission or execution of a binary. Simulation vendors often over-emphasize clicks as "bad."  
 * Consider gamifying phish detection, as one alternative  
 * Phil Venables: [Security Training & Awareness - 10 Essential Techniques](https://www.philvenables.com/post/security-training-awareness-10-essential-techniques)
+* Defense in Depth podcast: [Are Phishing Tests Helping or Hurting Our Security Program?](https://www.linkedin.com/pulse/phishing-tests-helping-hurting-our-security-program-david-spark-ulrof/)
 
 [1] Instead, roll out [webauthn/Yubikeys](deploying-webauthn.md)
