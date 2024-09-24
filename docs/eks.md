@@ -20,6 +20,7 @@ description: security considerations and controls when deploying EKS
 ### 2024
 
 * [(video) Effective building blocks for securing multi-tenant Kubernetes clusters](https://www.youtube.com/watch?v=Q_lMKSEzK-E)
+* [Kubernetes Audit Logs Gotchas](https://fwdcloudsec.org/assets/presentations/2024/europe/shay-berkovich-kubernetes-audit-logs-gotchas.pdf)
 
 ### 2023
 
