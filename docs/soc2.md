@@ -9,7 +9,7 @@ description: an index of real world stories and pragmatic advice for getting SOC
 6. [Vanta's 5 Principles for building a secure product (aka Before SOC 2)](https://www.vanta.com/resources/five-principles-for-building-a-secure-product)
 5. [RunReveal's SOC2 Type 1 experience](https://blog.runreveal.com/we-achieved-soc-2-type-1-in-record-time-and-how-you-can-too/): see especially a discussion of the benefits of avoiding containers 
 6. [Greynoise - SOC2 For Startups](https://www.greynoise.io/blog/soc2-for-startups)
-
+7. [WarpBuild's SOC2 Experience](https://www.warpbuild.com/blog/soc2): includes guide to evaluating compliance automation tools, and full timeline of process
 **Related Perspectives**  
 
 * [SOC2 Suck — A False Sense of Security](https://medium.com/@reid.huyssen/soc2-suck-a-false-sense-of-security-5852a2c080ff)
