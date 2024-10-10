@@ -39,6 +39,7 @@ description: an index of security maturity models
 * [SOAR adoption maturity model](https://chronicle.security/blog/posts/SOAR-adoption-maturity-model/)
 * [Threat Detection Maturity Framework](https://medium.com/snowflake/threat-detection-maturity-framework-23bbb74db2bc)
 * [Detection Engineering Maturity Matrix](https://detectionengineering.io/)
+* [Detection Engineering Behavior Maturity Model](https://www.elastic.co/security-labs/elastic-releases-debmm)
 
 ### Zero Trust   
 * [CISA - Zero Trust Maturity Model](https://www.cisa.gov/sites/default/files/2023-04/zero_trust_maturity_model_v2_508.pdf)
