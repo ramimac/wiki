@@ -49,12 +49,10 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 
 ## Open Source Tools (AWS)
 
-* **DEPRECATED** [common-fate/glide](https://github.com/common-fate/glide)
 * [discord/access](https://github.com/discord/access)
 * [aws-samples/iam-identity-center-team](https://github.com/aws-samples/iam-identity-center-team/blob/main/README.md), [blog](https://aws.amazon.com/blogs/security/temporary-elevated-access-management-with-iam-identity-center/)
 
 ## Open Source Tools (GCP)
-* **DEPRECATED** [spotify/gimme](https://github.com/spotify/gimme)
 * [GoogleCloudPlatform/jit-access](https://github.com/GoogleCloudPlatform/jit-access)
 * [lirlia/prel](https://github.com/lirlia/prel)
 
@@ -75,11 +73,6 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 * [Britive](https://www.britive.com)
 * [zluri](https://www.zluri.com/)
 
-### Aquired
-
-* [Entitle (now BeyondTrust)](https://www.entitle.io/)
-* [Ermetic (now Tenable)](https://ermetic.com/platform/just-in-time/)
-
 ### As a feature of IdP or PAM
 
 * Okta IGA
@@ -92,8 +85,20 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 * [ClearSkye](https://clearskye.com/) (ServiceNow)
 * [Multiplier](https://multiplierhq.com/) (Jira Service Management)
 
-### Defunct
+### Aquired
+
+* [Entitle (now BeyondTrust)](https://www.entitle.io/)
+* [Ermetic (now Tenable)](https://ermetic.com/platform/just-in-time/)
+
+## Defunct and Deprecated
+
+**Companies**
 
 * [Indent](https://indent.com) - [aquihired into OpenAI and wound down in May 2024](https://x.com/fouadmatin/status/1793350695476933108)
 * [Sym](https://symops.com) - [wound down in April 2024](https://www.linkedin.com/posts/jonbass_i-am-sorry-to-report-that-sym-will-be-shutting-activity-7173334515610849282-hK88)
 * [Noovolari (Leapp)](https://www.leapp.cloud/) - [wound down in May 2024](https://blog.leapp.cloud/noovolari-has-officially-come-to-an-end)
+
+**Tools**
+
+* [spotify/gimme](https://github.com/spotify/gimme)
+* [common-fate/glide](https://github.com/common-fate/glide)
