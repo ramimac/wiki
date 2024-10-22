@@ -41,3 +41,4 @@ These posts are interesting to show where your program can go, but can be elided
 * [ One-Person Army – A playbook on how to be the first Security Engineer at a company](https://sector.ca/sessions/one-person-army-a-playbook-on-how-to-be-the-first-security-engineer-at-a-company/)
 * [BSidesSF 2023: First Security Hire (Panel)](https://www.youtube.com/watch?v=k01iaGzjvlE&list=PLbZzXF2qC3RuQAuC0C4Q7Lk4eQluqIVzL&index=43)
 * [BSidesSF 2024: Getting over the finish line: Loom Security Journey](https://www.youtube.com/watch?v=a3a6MypvDSM)
+* [SANS CloudSecNext 2024: Security Journey at Elastic](https://www.youtube.com/watch?v=sczb7W5yO0A), Mandy Andress, Elastic
