@@ -76,3 +76,4 @@ data "aws_iam_policy_document" "deny_public_secrets" {
 * Steampipe [aws_organizations_policy_target](https://hub.steampipe.io/plugins/turbot/aws/tables/aws_organizations_policy_target) + [Node/Edge Visualizations#](https://steampipe.io/docs/reference/mod-resources/graph#nodeedge-visualizations)
 * [wut.dev](https://blog.wut.dev/2024/06/29/introducing-wut-dev.html)
 * [aws-samples/scp-analyzer](https://github.com/aws-samples/scp-analyzer)
+* [trussworks/terraform-aws-ou-scp](https://github.com/trussworks/terraform-aws-ou-scp)
