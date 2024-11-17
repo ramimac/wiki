@@ -23,6 +23,7 @@ _Research:_
     * [Keynote - Dr M Angela Sasse](https://youtu.be/XFeZvQuRWGk?si=34fp21Ja_tR9oCoH&t=1463)
     * [The Impact of Workload on Phishing Susceptibility: An Experiment](https://www.ndss-symposium.org/wp-content/uploads/usec2024-24-paper.pdf)
 * [What Motivates and Discourages Employees in Phishing Interventions: An Exploration of Expectancy-Value Theory](https://www.usenix.org/system/files/soups2024-chen.pdf): "Our study reveals a spectrum of factors that influence employees’ intentions to report phishing emails. ... Among the factors discouraging employees, the absence of feedback and perceived low utility value are particularly detrimental."
+* [Understanding the Efficacy of Phishing Training in Practice](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a076/21B7RjYyG9q): "Taken together, our results suggest that anti-phishing training programs, in their current and commonly deployed forms, are unlikely to offer significant practical value in reducing phishing risks."
 
 _Commentary:_  
 
