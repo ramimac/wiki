@@ -12,6 +12,7 @@ description: an index of real world stories of rolling out WebAuthn
 * [Panther](https://panther.com/blog/going-phishless-how-panther-deployed-webauthn/)
 * [Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2021/how-we-rolled-out-security-keys-at-twitter)
 * Discord [Blog](https://discord.com/blog/how-discord-rolled-out-yubikeys-for-all-employees) , [BSidesSF 2023: WebAuthn, Yubikeys, and You](https://www.youtube.com/watch?v=IJHkaXT3nWI&list=PLbZzXF2qC3RuQAuC0C4Q7Lk4eQluqIVzL&index=54), [Blog: Support for Customers](https://discord.com/blog/how-discord-modernized-mfa-with-webauthn)
+* [USDA](https://www.cisa.gov/resources-tools/resources/phishing-resistant-multi-factor-authentication-mfa-success-story-usdas-fast-identity-online-fido)
 
 **Other Compilations**
 
