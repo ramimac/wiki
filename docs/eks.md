@@ -16,6 +16,7 @@ description: security considerations and controls when deploying EKS
 * [OWASP/www-project-kubernetes-top-ten]()https://github.com/OWASP/www-project-kubernetes-top-ten/tree/main
 * [Kubernetes - Security Checklist](https://kubernetes.io/docs/concepts/security/security-checklist/)
 * [GKE - Harden your cluster's security](https://cloud.google.com/kubernetes-engine/docs/how-to/hardening-your-cluster)
+* [The Kubenomicon](https://kubenomicon.com/)
 
 ### 2024
 
