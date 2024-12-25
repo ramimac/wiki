@@ -42,6 +42,10 @@ description: an index of security maturity models
 * [Detection Engineering Maturity Matrix](https://detectionengineering.io/)
 * [Detection Engineering Behavior Maturity Model](https://www.elastic.co/security-labs/elastic-releases-debmm)
 
+### Threat Modeling
+
+* [Threat Modeling Manifesto - Capabiliteis](https://www.threatmodelingmanifesto.org/capabilities/)
+
 ### Zero Trust   
 * [CISA - Zero Trust Maturity Model](https://www.cisa.gov/sites/default/files/2023-04/zero_trust_maturity_model_v2_508.pdf)
 
