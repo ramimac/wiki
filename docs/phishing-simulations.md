@@ -33,5 +33,6 @@ _Commentary:_
 * Consider gamifying phish detection, as one alternative  
 * Phil Venables: [Security Training & Awareness - 10 Essential Techniques](https://www.philvenables.com/post/security-training-awareness-10-essential-techniques)
 * Defense in Depth podcast: [Are Phishing Tests Helping or Hurting Our Security Program?](https://www.linkedin.com/pulse/phishing-tests-helping-hurting-our-security-program-david-spark-ulrof/)
+* Google's [Phishing Quiz](https://phishingquiz.withgoogle.com/)
 
 [1] Instead, roll out [webauthn/Yubikeys](deploying-webauthn.md)
