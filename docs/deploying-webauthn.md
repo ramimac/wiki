@@ -23,3 +23,10 @@ description: an index of real world stories of rolling out WebAuthn
 
 * [Challenges with Passwordless FIDO2 in an Enterprise Setting: A Usability Study](https://arxiv.org/pdf/2308.08096.pdf) 
 * [Why Aren’t We Using Passkeys? Obstacles Companies Face Deploying FIDO2 Passwordless Authentication (Extended Version)](https://maximiliangolla.com/files/2024/papers/fidoobstacles-extended.pdf)
+
+**Anecdata**
+
+
+[Christopher Glyer](https://x.com/cglyer/status/1886580964320506183)
+> I was talking to a CISO the other day and he mentioned that when his org implemented MFA with the MSFT authenticator app it reduced their aggregate number of security incidents by ~25%.  
+> The rollout of Yubikeys for all employees reduced # of security incidents another 25%.
