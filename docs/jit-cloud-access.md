@@ -62,16 +62,17 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 * [ConductorOne](https://www.conductorone.com/)
 * [Lumos](https://www.lumos.com)
 * [Opal](https://opal.dev/)
-* [Common Fate](https://www.commonfate.io/)
-* [CloudYali](https://www.cloudyali.io/)
+* [Veza](https://veza.com/)
 * [p0](https://p0.dev/)
+* [Common Fate](https://www.commonfate.io/)
 * [SGNL](https://sgnl.ai/solutions/amazon-web-services/)
 * [Zilla Security](https://zillasecurity.com/)
-* [AccessOS](https://www.accessos.com/)
 * [abbey](https://www.abbey.io/)
 * [Apono](https://www.apono.io/)
 * [Britive](https://www.britive.com)
 * [zluri](https://www.zluri.com/)
+* [Saviynt](https://saviynt.com/products/privileged-access-management-software-solutions)
+* [Axiom](https://axiom.security/)
 
 ### As a feature of IdP or PAM
 
@@ -85,6 +86,11 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 * [ClearSkye](https://clearskye.com/) (ServiceNow)
 * [Multiplier](https://multiplierhq.com/) (Jira Service Management)
 
+### Data Centric
+
+* [Hoop.dev](https://hoop.dev/)
+* [Formal](https://www.joinformal.com/)
+
 ### Aquired
 
 * [Entitle (now BeyondTrust)](https://www.entitle.io/)
@@ -97,6 +103,8 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 * [Indent](https://indent.com) - [aquihired into OpenAI and wound down in May 2024](https://x.com/fouadmatin/status/1793350695476933108)
 * [Sym](https://symops.com) - [wound down in April 2024](https://www.linkedin.com/posts/jonbass_i-am-sorry-to-report-that-sym-will-be-shutting-activity-7173334515610849282-hK88)
 * [Noovolari (Leapp)](https://www.leapp.cloud/) - [wound down in May 2024](https://blog.leapp.cloud/noovolari-has-officially-come-to-an-end)
+* [AccessOS](https://www.accessos.com/) - multiple pivots since, "Construct AI" no-code, Sleep Apnea 
+* [CloudYali](https://www.cloudyali.io/) - pivot to cost
 
 **Tools**
 
