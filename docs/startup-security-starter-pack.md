@@ -6,6 +6,7 @@ Inspired by [Steve Weis](https://saweis.net/) - [his version on Google Docs](htt
 * _Prescriptive_ [The SOC2 Starting Seven](https://latacora.micro.blog/2020/03/12/the-soc-starting.html), [Latacora](https://www.latacora.com/): Latacora is a consultancy that helps build security programs for startups. While this post is stuctured around SOC2, it contains a set of tactical controls that you should implement early and will provide a solid foundation for your security program.
 * _Prescriptive_ [Early Security for Startups](https://devd.me/log/posts/startup-security/), [Dev](https://devd.me/): Dev has been down this road, and helped scale security for hypergrowth companies. He goes so far as to call out specific tools and vendors - something we often elide but can be high-leverage if you trust his judgement. You should.
     * Andrew Wansley offers [an alternative take](https://awans.org/Essays/Startup+Security) on the same topic and structure
+    * dade echos similar advice in [High Leverage Security Decisions](https://0xda.de/garden/high-leverage-security-decisions/)
 * [Minimum Viable Secure Product](https://mvsp.dev/mvsp.en/): A "minimalistic security checklist for B2B software and business process outsourcing suppliers" 
 
 **Read More**  
