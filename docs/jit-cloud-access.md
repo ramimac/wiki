@@ -36,6 +36,7 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 | 2024 | Instacart | AWS | ConductorOne + (oss) [gadjit](https://github.com/instacart/gadjit) | [JIT Happens: How Instacart Uses AI to Keep Doors Open and Risks Closed](https://bsideslv.org/talks#8NXQEM) |
 | 2024 | Cedar | AWS | Lumos | [Building Data Driven Access with the tools you have](https://bsideslv.org/talks#XLHMUT) |
 | 2025 | Cresta | Unknown | Internal | [Build vs. Buy: How Cresta Engineered Its Own Customer Data Access Solution](https://cresta.com/blog/build-vs-buy-how-cresta-engineered-its-own-customer-data-access-solution/) |
+| 2025 | Rippling | AWS | Internal | [Just-in-Time Access for AWS at Rippling](https://www.rippling.com/blog/just-in-time-access-for-aws-at-rippling) |
 
 
 ## (Quality) Blogs about JIT Access 
@@ -51,7 +52,7 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 ## Open Source Tools (AWS)
 
 * [discord/access](https://github.com/discord/access)
-* [aws-samples/iam-identity-center-team](https://github.com/aws-samples/iam-identity-center-team/blob/main/README.md), [blog](https://aws.amazon.com/blogs/security/temporary-elevated-access-management-with-iam-identity-center/)
+* [aws-samples/iam-identity-center-team](https://github.com/aws-samples/iam-identity-center-team/blob/main/README.md), [blog](https://aws.amazon.com/blogs/security/temporary-elevated-access-management-with-iam-identity-center/) (see: Porte, for "TEAM as a service")
 
 ## Open Source Tools (GCP)
 * [GoogleCloudPlatform/jit-access](https://github.com/GoogleCloudPlatform/jit-access)
@@ -65,15 +66,12 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 * [Opal](https://opal.dev/)
 * [Veza](https://veza.com/)
 * [p0](https://p0.dev/)
-* [Common Fate](https://www.commonfate.io/)
 * [SGNL](https://sgnl.ai/solutions/amazon-web-services/)
-* [Zilla Security](https://zillasecurity.com/)
-* [abbey](https://www.abbey.io/)
 * [Apono](https://www.apono.io/)
 * [Britive](https://www.britive.com)
 * [zluri](https://www.zluri.com/)
 * [Saviynt](https://saviynt.com/products/privileged-access-management-software-solutions)
-* [Axiom](https://axiom.security/)
+* [Porte](https://portecloud.com/) - TEAM as a service
 
 ### As a feature of IdP or PAM
 
@@ -81,6 +79,7 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 * CyberArk Secure Cloud Access
 * Jumpcloud [docs](https://jumpcloud.com/support/integrate-with-aws-iam-identity-center)
 * Delinea
+* [Ping Identity](https://www.pingidentity.com/en/capability/jit-privileged-access.html)
 
 ### Based on ticketing system
 
@@ -96,6 +95,9 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 
 * [Entitle (now BeyondTrust)](https://www.entitle.io/)
 * [Ermetic (now Tenable)](https://ermetic.com/platform/just-in-time/)
+* [Zilla Security (now CyberArk](https://zillasecurity.com/)
+* [Axiom (now Okta)](https://axiom.security/)
+
 
 ## Defunct and Deprecated
 
@@ -106,6 +108,9 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 * [Noovolari (Leapp)](https://www.leapp.cloud/) - [wound down in May 2024](https://blog.leapp.cloud/noovolari-has-officially-come-to-an-end)
 * [AccessOS](https://www.accessos.com/) - multiple pivots since, "Construct AI" no-code, Sleep Apnea 
 * [CloudYali](https://www.cloudyali.io/) - pivot to cost
+* [Common Fate](https://www.commonfate.io/) - [wound down in April 2025, `granted` tool (not JIT) donated to fwd:cloudsec](https://www.commonfate.io/blog/winding-down)
+* [abbey](https://www.abbey.io/) - appears to be a Zombie company
+
 
 **Tools**
 
