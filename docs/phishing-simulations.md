@@ -35,5 +35,6 @@ _Commentary:_
 * Defense in Depth podcast: [Are Phishing Tests Helping or Hurting Our Security Program?](https://www.linkedin.com/pulse/phishing-tests-helping-hurting-our-security-program-david-spark-ulrof/)
 * Google's [Phishing Quiz](https://phishingquiz.withgoogle.com/)
 * [Phishing Tests, the Bane of Work Life, Are Getting Meaner](https://www.wsj.com/tech/cybersecurity/phishing-tests-the-bane-of-work-life-are-getting-meaner-76f30173?st=vHMVea&reflink=desktopwebshare_permalink)
+* GitLab [Red Team Attack Operation RT-014 - Phishing - Expensify Template + Replay RT011](https://gitlab-com.gitlab.io/gl-security/security-tech-notes/red-team-tech-notes/rt-014%20-%20Phishing%20Campaign/)
 
 [1] Instead, roll out [webauthn/Yubikeys](deploying-webauthn.md)
