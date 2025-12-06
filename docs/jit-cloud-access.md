@@ -25,6 +25,7 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 | 2021 | Bryj | AWS | [(OSS) consoleme](https://github.com/Netflix/consoleme) | [Achieving least-privilege at Bryj (former FollowAnalytics) with Repokid, Aardvark and ConsoleMe](https://medium.com/followanalytics/granting-least-privileges-at-followanalytics-with-repokid-aardvark-and-consoleme-895d8daf604a) |
 | 2021 | Picus | AWS | Internal (SlackOps + Lambda) | [On-demand Server Access Management System at Picus](https://medium.com/picus-security-engineering/on-demand-server-access-management-system-at-picus-3d42e597df6c) |
 | 2022 | AirBnb | AWS etc. | Internal ("Access Control Platform") | [Airbnb’s Approach to Access Management at Scale](https://medium.com/airbnb-engineering/airbnbs-approach-to-access-management-at-scale-cfa66c32f03c) |
+| 2022 | Oda | GCP | Internal ("Access Elevator") | [The Access Elevator 🛗](https://medium.com/oda-product-tech/the-access-elevator-8b9ad62d81cf) |
 | 2023 | Temporal | AWS | Common Fate | [Rolling out access hours at Temporal](https://temporal.io/blog/rolling-out-access-hours-at-temporal) |
 | 2023 | Material Security | GCP | Internal | [Reimagining Access Management: Part 1](https://material.security/blog/reimagining-access-management-part-1) |
 | 2023 | Ramp | AWS | ConductorOne | [Finding the right balance of speed and security through just-in-time access to cloud resources](https://engineering.ramp.com/jit-access) / [(video)  How Ramp Manages Authorization in the Cloud and Achieves Least Privilege](https://www.youtube.com/watch?v=v5f-1U3Y0xA) |
@@ -64,7 +65,6 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 * [ConductorOne](https://www.conductorone.com/)
 * [Lumos](https://www.lumos.com)
 * [Opal](https://opal.dev/)
-* [Veza](https://veza.com/)
 * [p0](https://p0.dev/)
 * [SGNL](https://sgnl.ai/solutions/amazon-web-services/)
 * [Apono](https://www.apono.io/)
@@ -72,6 +72,7 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 * [zluri](https://www.zluri.com/)
 * [Saviynt](https://saviynt.com/products/privileged-access-management-software-solutions)
 * [Porte](https://portecloud.com/) - TEAM as a service
+* [Sonrai](https://sonraisecurity.com/use-cases/just-in-time-access/)
 
 ### As a feature of IdP or PAM
 
@@ -97,6 +98,7 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 * [Ermetic (now Tenable)](https://ermetic.com/platform/just-in-time/)
 * [Zilla Security (now CyberArk](https://zillasecurity.com/)
 * [Axiom (now Okta)](https://axiom.security/)
+* [Veza (now ServiceNow)](https://veza.com/)
 
 
 ## Defunct and Deprecated
@@ -110,7 +112,6 @@ Also known as "temporary access", see: [Google's Building Security and Reliable 
 * [CloudYali](https://www.cloudyali.io/) - pivot to cost
 * [Common Fate](https://www.commonfate.io/) - [wound down in April 2025, `granted` tool (not JIT) donated to fwd:cloudsec](https://www.commonfate.io/blog/winding-down)
 * [abbey](https://www.abbey.io/) - appears to be a Zombie company
-
 
 **Tools**
 
