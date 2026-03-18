@@ -1,2 +1,5 @@
 # wiki
-a public knowledge base
+
+This repository has been archived.
+
+Wiki content has moved to [ramimac.me/wiki](https://ramimac.me/wiki/).
